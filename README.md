@@ -4,17 +4,22 @@ I have been watching and learning HTML and CSS for a month now and learned the b
 
 ## PROJECT URL
 <div>
-1. Single Page CV
-[https://github.com/bingbong-create/roadmap-projects.git](https://roadmap.sh/projects/single-page-cv)
+  <p>
+    1. Single Page CV
+    https://roadmap.sh/projects/single-page-cv
+  </p>
   <a href="01-Single-Page-CV.html">
     <img src="assets/roadmap-preview-images/01-Singe-page CV.png" alt="single page CV" width="50%">
   </a>
 </div>
 
 <div>
-2. Basic HTML Website
-[[https://github.com/bingbong-create/roadmap-projects.git](https://roadmap.sh/projects/single-page-cv)](https://roadmap.sh/projects/basic-html-website)
-  <a href="02-basic-HTML-website/home.html">
+  <p>
+    2. Basic HTML Website
+    https://roadmap.sh/projects/basic-html-website
+  </p>
+
+  <a href="02-basic-HTML-website">
     <img src="" alt="Basic HTML Website" width="50%">
   </a>
 </div>
