@@ -13,7 +13,7 @@ I have been watching and learning HTML and CSS for a month now and learned the b
 
 <div>
 2. Basic HTML Website
-[https://github.com/bingbong-create/roadmap-projects.git](https://roadmap.sh/projects/single-page-cv)
+[[https://github.com/bingbong-create/roadmap-projects.git](https://roadmap.sh/projects/single-page-cv)](https://roadmap.sh/projects/basic-html-website)
   <a href="https://github.com/bingbong-create/my-roadmap-projects/blob/main/Roadmap-projects/01-Single-Page-CV.html">
     <img src="" alt="Basic HTML Website" width="50%">
   </a>
