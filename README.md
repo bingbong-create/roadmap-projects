@@ -20,6 +20,6 @@ I have been watching and learning HTML and CSS for a month now and learned the b
   </p>
 
   <a href="02-basic-HTML-website">
-    <img src="" alt="Basic HTML Website" width="50%">
+    <img src="assets/roadmap-preview-images/02-bsic-HTML-website.jpeg" alt="Basic HTML Website" width="50%">
   </a>
 </div>
